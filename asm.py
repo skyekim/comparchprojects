@@ -1,10 +1,7 @@
 #!/usr/bin/python3
 
 """
-CS-UY 2214
-Jeff Epstein
-Starter code for E20 assembler
-asm.py
+Code for assembler
 """
 
 import argparse
