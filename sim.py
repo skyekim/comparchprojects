@@ -1,10 +1,7 @@
 #!/usr/bin/python3
 
 """
-CS-UY 2214
-Jeff Epstein
-Starter code for E20 simulator
-sim.py
+Code for simulator that takes machine code as the input and outputs assembly code
 """
 
 from collections import namedtuple
