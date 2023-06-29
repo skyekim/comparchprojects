@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
 """
-Code for assembler
+Code for assembler that takes assembly code as the input and outputs machine code
 """
 
 import argparse
