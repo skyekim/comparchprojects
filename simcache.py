@@ -1,10 +1,7 @@
 #!/usr/bin/python3
 
 """
-CS-UY 2214
-Jeff Epstein
-Starter code for E20 cache simulator
-simcache.py
+Code for the cache simulator which takes assembly code and a cache and outputs the correct cache configuration
 """
 
 import re
